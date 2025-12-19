@@ -1,0 +1,13 @@
+"insurance_id";"payer_name";"plan_type";"contract_rate"
+1;"Medicare";"Medicare";0.61
+2;"Medicaid";"EPO";0.99
+3;"Aetna";"Medicaid";0.93
+4;"BlueCross";"EPO";0.68
+5;"UnitedHealth";"EPO";0.67
+6;"Kaiser";"PPO";0.67
+7;"Cigna";"Medicaid";0.72
+8;"Humana";"Medicaid";0.81
+9;"Tricare";"Medicaid";0.77
+10;"SelfPay";"EPO";0.72
+11;"Optima";"Medicare";0.84
+12;"CareFirst";"Medicaid";0.66
